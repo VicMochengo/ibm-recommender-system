@@ -1,4 +1,4 @@
-# IBM Articles Recommender System
+# IBM Watson Studio Articles Recommender System
 This project is submitted as part of fulfillment of my [Udacity](https://www.udacity.com/) Data Science Nanodegree. The project was designed to provide a recommendation algorithm to suggest new articles for users of the IBM Watson Studio based on the users' analyzed interactions with published articles.
 
 ##  Dependencies
