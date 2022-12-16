@@ -27,4 +27,5 @@ The analysis is provided in the notebook named ***Recommendations_with_IBM.ipynb
 
 
 ## Acknowledgments
-I would like to thank [Udacity](https://www.udacity.com/) for this amazing project, and [IBM](https://dataplatform.cloud.ibm.com/) for providing the data.
+ - [Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
+ - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) for providing the dataset used to train the model
